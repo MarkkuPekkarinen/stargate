@@ -1,6 +1,4 @@
-# Changelog
-
-## [v2.0.51](https://github.com/stargate/stargate/tree/v2.0.51) (2026-06-15)
+## [Unreleased](https://github.com/stargate/stargate/tree/HEAD)
 
 [Full Changelog](https://github.com/stargate/stargate/compare/v2.1.0-BETA-39...v2.0.51)
 
